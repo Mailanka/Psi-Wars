@@ -1,4 +1,4 @@
-![](PSI-WARS-no-back by Zack Prime.png)
+![psi-wars logo](https://github.com/Mailanka/Psi-Wars/blob/master/PSI-WARS-no-back%20by%20Zack%20Prime.png)
 
 The Emperor Ren Valorian rules the Galaxy.  He seized it from the Galactic Federation, a diplomatic body of aristocratic houses when they failed to protect the galaxy from the dread invasion of the Scourge.  His rule began with rage and revolution, casting down the aristocracy and promising equality for all "true citizens" of the Galaxy.  He claims his rule a benign and a rational one, that he embraces logic and compassion.  In truth, his reign oppresses the galaxy.  He sends his mighty dreadnoughts and his force-sword wielding agents to crush dissent; he casts aliens into labor camps and disappears political activists to remote, planetary prisons; he  quietly allows corrupt officials to run roughshod over the citizenry; he reshapes the philosophies and religions of the galaxy with his psychic might, forging an imperial cult that grant him transcendent power.  Even those who benefit from the largesse of the Empire begin to grow disquieted by the looming power of the Emperor.
 
