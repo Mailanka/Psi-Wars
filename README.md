@@ -1,3 +1,5 @@
+![](C:\Users\DanielDover\Dropbox\RPG\GURPS\Space Opera\Psi-Wars\Psi-Wars (Repo)\PSI-WARS-no-back by Zack Prime.png)
+
 The Emperor Ren Valorian rules the Galaxy.  He seized it from the Galactic Federation, a diplomatic body of aristocratic houses when they failed to protect the galaxy from the dread invasion of the Scourge.  His rule began with rage and revolution, casting down the aristocracy and promising equality for all "true citizens" of the Galaxy.  He claims his rule a benign and a rational one, that he embraces logic and compassion.  In truth, his reign oppresses the galaxy.  He sends his mighty dreadnoughts and his force-sword wielding agents to crush dissent; he casts aliens into labor camps and disappears political activists to remote, planetary prisons; he  quietly allows corrupt officials to run roughshod over the citizenry; he reshapes the philosophies and religions of the galaxy with his psychic might, forging an imperial cult that grant him transcendent power.  Even those who benefit from the largesse of the Empire begin to grow disquieted by the looming power of the Emperor.
 
 Not all of the Galaxy has fallen into the Valorian Emperor's grasp.  The last remnants of the Galactic Federation, an Alliance of psychic aristocrats, free worlds and alien peoples, fled to the Glorian Rim, the ancestral home of humanity. There, they hid behind the ancient and mighty space fortress, the Hammer of Caliban.  This last bastion of democracy seeks to gain new allies in one last bid to liberate the Galaxy of the Emperor and restore peace and freedom to all.  In the Dark Arm of the Galaxy, fractious alien races enslave one another and worship in their own ecstasy cults.  Where the Scourge slaughtered humanity, once placid robots have risen in revolt, and their Cybernetic Union sends their genocidal machines crashing against the fortresses of the Empire.  Scattered throughout the whole galaxy lie the ruins and remains of lost civilizations, or hints of  undiscovered tribes of aliens and new psychic philosophies.
@@ -41,3 +43,7 @@ This work is owned by Daniel A. Dover.
 This work is covered by the [Creative Commons Attribution-NonCommercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).  You may share it and change it, so long as you note the changes and attribute the original work to me.
 
 Contributing work, such as by artists, fall outside of this license; these will be noted.
+
+------
+
+The Psi-Wars Logo is by Zack Prime and falls outside of the CC license.
